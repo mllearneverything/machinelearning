@@ -1,2 +1,2 @@
 ## Machine Learning
-This repository contains Lecture notes, assignments and project list for learning machine learning.
+This repository contains Lecture notes, assignments, project list, online course contents and implementations for machine learning.
